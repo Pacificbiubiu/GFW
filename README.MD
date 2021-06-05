@@ -29,4 +29,17 @@
 ---
 > 1. [mattkaydiary](https://www.mattkaydiary.com/)
 > 2. [proxypool](https://proxypool.ednovas.xyz/)
-
+### **本Repo国内加速下载地址**
+> 总有一个可以用的.......
+## 美国下载
+> 1. https://gh.api.99988866.xyz/https://github.com/AdminWhaleFall/GFW/archive/refs/heads/master.zip
+> 2. https://gh.msx.workers.dev/https://github.com/AdminWhaleFall/GFW/archive/refs/heads/master.zip
+> 3. https://gh.xiu2.xyz/https://github.com/AdminWhaleFall/GFW/archive/refs/heads/master.zip
+> 4. https://gh.argv.cc/https://github.com/AdminWhaleFall/GFW/archive/refs/heads/master.zip
+> 5. https://git.yumenaka.net/https://github.com/AdminWhaleFall/GFW/archive/refs/heads/master.zip
+## 日本东京
+> 1. https://download.fastgit.org/AdminWhaleFall/GFW/archive/refs/heads/master.zip
+## 韩国首尔
+> 1. https://ghproxy.com/https://github.com/AdminWhaleFall/GFW/archive/refs/heads/master.zip
+## 中国香港
+> 1. https://pd.zwc365.com/seturl/https://github.com/AdminWhaleFall/GFW/archive/refs/heads/master.zip
