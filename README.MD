@@ -1,7 +1,7 @@
 <!--
  * @Author: whalefall
  * @Date: 2021-06-05 07:26:21
- * @LastEditTime: 2021-06-05 07:47:28
+ * @LastEditTime: 2021-06-06 11:06:26
  * @Description: GitHub 代理教程
 -->
 # How to get on the International Network
@@ -29,6 +29,14 @@
 ---
 > 1. [mattkaydiary](https://www.mattkaydiary.com/)
 > 2. [proxypool](https://proxypool.ednovas.xyz/)
+### 个人常用配置截图
+![配置截图](img/星愿浏览器截图20210606110333.png)
+```
+https://cdn.jsdelivr.net/gh/adiwzx/freenode@main/adispeed.yml
+https://proxypool.ednovas.xyz/clash/config
+https://drive.google.com/uc?export=download&id=1Ky1MwwMOeswzDtu5MvOOlb-WYC9NFXz4
+https://cdn.jsdelivr.net/gh/ssrsub/ssr/Clash.yml
+```
 ### **本Repo国内加速下载地址**
 > 总有一个可以用的.......
 ## 美国下载
